@@ -1,0 +1,33 @@
+/* src/styles/variables.css */
+
+:root {
+  /* Primary */
+  --color-primary: #B57EDC; /* Lavender */
+
+  /* Dark Base */
+  --color-dark-base: #2E2B3A; /* Deep Purple Gray */
+
+  /* Light Background */
+  --color-light-bg: #EDE7F6; /* Soft Lilac */
+
+  /* Accent */
+  --color-accent: #6FC3B2; /* Mint / Teal */
+
+  /* Neutral */
+  --color-neutral: #A8A8A8; /* Cool Gray */
+
+  /* White */
+  --color-white: #FFFFFF;
+}
+
+/* Optional base styles */
+body {
+  background-color: var(--color-light-bg);
+  color: var(--color-dark-base);
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}

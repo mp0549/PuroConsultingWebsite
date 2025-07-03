@@ -1,0 +1,30 @@
+
+Primary Color:
+- Name: Lavender
+- Hex: #B57EDC
+- Use: Buttons, accents, highlights
+
+Dark Base:
+- Name: Deep Purple Gray
+- Hex: #2E2B3A
+- Use: Headers, nav background, main text
+
+Light Background:
+- Name: Soft Lilac
+- Hex: #EDE7F6
+- Use: Backgrounds, sections, cards
+
+Accent Color:
+- Name: Mint / Teal
+- Hex: #6FC3B2
+- Use: Call-to-action buttons, hover states
+
+Neutral:
+- Name: Cool Gray
+- Hex: #A8A8A8
+- Use: Borders, secondary text, icons
+
+White:
+- Name: Pure White
+- Hex: #FFFFFF
+- Use: Background, high contrast text

@@ -1,0 +1,15 @@
+/* Layout.css */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: var(--color-light-bg);
+  color: var(--color-dark-base);
+  font-family: 'Poppins', sans-serif;
+}
+
+.main-content {
+  flex: 1;
+  padding: 2rem;
+}
