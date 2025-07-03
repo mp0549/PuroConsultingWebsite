@@ -5,10 +5,13 @@ function Header() {
   return (
     <header className="header">
       <div className="branding">
-        <a href="/" className="logo-link">
+        <a href="/">
           <img src="public/assets/purologo.png" alt="Puro Consulting logo" className="logo"/>
         </a>
-        <h2>Puro Consulting</h2>
+        
+      <a href="/" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <h2>Puro Consulting</h2>
+        </a>
       </div>
 
       <nav>
